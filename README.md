@@ -2,8 +2,9 @@
 
 ## Screenshots
 
-![](images/startScreen.PNG)
+<img src="images/startScreen.PNG" width="200">
 
-![](images/afterSelectImage.PNG)
+<img src="images/afterSelectImage.PNG" width="200">
 
-![](images/ocrResult.PNG)
+<img src="images/ocrResult.PNG" width="200">
+
